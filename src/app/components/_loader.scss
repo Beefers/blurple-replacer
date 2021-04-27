@@ -1,0 +1,27 @@
+/* Cube Loading Spinner */
+span[class*="wanderingCubesItem-"] {
+    background-color: var(--unblurple);
+}
+
+/* Media Loader */
+div[class*="progress-"] div[style*="background-color: rgb(114, 137, 218);"] {
+    background-color: var(--unblurple) !important;
+}
+
+/* Loading Screen Tip */
+div[class*="tipTitle-"] {
+    color: var(--unblurple) !important;
+}
+
+/* Nother Loading Spinner */
+.path-92Hmty {
+    stroke: var(--unblurple) !important;
+}
+.path2-1q7bG_ {
+    stroke: var(--unblurple) !important;
+    opacity: .6;
+}
+.path3-2l9TIX {
+    stroke: var(--unblurple);
+    filter: grayscale(90%);
+}

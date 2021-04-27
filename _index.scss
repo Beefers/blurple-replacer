@@ -1,0 +1,70 @@
+
+
+//?                      /$$       /$$                               /$$          
+//?                      | $$      | $$                              | $$          
+//?   /$$   /$$ /$$$$$$$ | $$$$$$$ | $$ /$$   /$$  /$$$$$$   /$$$$$$ | $$  /$$$$$$ 
+//?  | $$  | $$| $$__  $$| $$__  $$| $$| $$  | $$ /$$__  $$ /$$__  $$| $$ /$$__  $$
+//?  | $$  | $$| $$  \ $$| $$  \ $$| $$| $$  | $$| $$  \__/| $$  \ $$| $$| $$$$$$$$
+//?  | $$  | $$| $$  | $$| $$  | $$| $$| $$  | $$| $$      | $$  | $$| $$| $$_____/
+//?  |  $$$$$$/| $$  | $$| $$$$$$$/| $$|  $$$$$$/| $$      | $$$$$$$/| $$|  $$$$$$$
+//?   \______/ |__/  |__/|_______/ |__/ \______/ |__/      | $$____/ |__/ \_______/
+//?                                                        | $$                    
+//?                                                        | $$                    
+//?                                                        |__/                    
+ 
+// ? How to Use ? \\
+
+// * Add this into your project's root
+// --unblurple: #7289da; 
+// * Remove the //
+// * Then define a colour
+// * It can be HEX, RGB, RGBA, or anything else SCSS supports
+
+// !! Imports !! \\
+
+// Base
+@import "/src/app/base";
+
+// [ Chat ] \\
+
+// Attachments
+@import "/src/app/chat/attachments";
+
+// Messages
+@import "/src/app/chat/messages";
+
+// Reactions
+@import "/src/app/chat/reactions";
+
+// [ Compat ] \\
+
+// Powercord
+@import "/src/app/compat/powercord";
+
+// [ Components ] \\
+
+// Buttons
+@import "/src/app/components/buttons";
+
+// Loaders
+@import "/src/app/components/loader";
+
+// Menus
+@import "/src/app/components/menus";
+
+// Modals
+@import "/src/app/components/modals";
+
+// Pop-outs
+@import "/src/app/components/popouts";
+
+// Sliders
+@import "/src/app/components/sliders";
+
+// [ Sidebar ] \\
+
+// Channels
+@import "/src/app/sidebar/channels";
+
+// Servers
+@import "/src/app/sidebar/servers"

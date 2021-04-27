@@ -1,0 +1,14 @@
+/* Video Player */
+div[class*="mediaBarInteractionDragging-"] .mediaBarGrabber-1FqnbN,
+.mediaBarInteraction-37i2O4:hover .mediaBarGrabber-1FqnbN,
+.mediaBarGrabber-1FqnbN, 
+.mediaBarProgress-1xaPtl, 
+.mediaBarProgress-1xaPtl::after, 
+.mediaBarProgress-1xaPtl::before {
+    background-color: var(--unblurple);
+}
+
+/* Link underlines */
+.lookLink-9FtZy-.colorBrand-3pXr91:hover .contents-18-Yxp {
+    background-image: linear-gradient(0deg,transparent,transparent 1px, var(--unblurple) 0,var(--unblurple) 2px,transparent 0);
+}

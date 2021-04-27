@@ -1,0 +1,32 @@
+/* Clyde */
+.replying-1x3H0T:before,
+.ephemeral-1PsL1r:before,
+.localBot-GrCgVt:before {
+    background-color: var(--unblurple) !important;
+}
+
+.replying-1x3H0T,
+.ephemeral-1PsL1r,
+.localBot-GrCgVt {
+    background-color: rgba(var(--unblurple), 0.05) !important;
+}
+
+.ephemeralMessage-1fEWtQ a {
+    color: var(--unblurple) !important;
+}
+
+/* Load More Messages */
+.hasMore-3e72_v {
+    color: var(--unblurple);
+}
+
+/* Bot Tag */
+span[class*="botTagInvert-"] {
+    color: var(--unblurple) !important;
+}
+
+/* Mentions */
+.wrapper-3WhCwL {
+    color: var(--unblurple);
+    background: rgba(var(--unblurple), 0.1);
+}

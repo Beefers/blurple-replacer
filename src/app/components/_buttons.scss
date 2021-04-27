@@ -1,0 +1,61 @@
+/* Buttons */
+div[class*="themeDefault"].valueChecked-m-4IJZ,
+button[class*="lookFilled"].colorBrand-3pXr91,
+button[class*="lookFilled"].colorBrand-3pXr91:disabled,
+button[class*="lookFilled"].colorBrand-3pXr91:hover {
+    background-color: var(--unblurple) !important;
+    color: #fff !important;
+    border-color: var(--unblurple) !important;
+}
+
+/* Message Edit Buttons */
+div[class*="operations-"] > a {
+    color: var(--unblurple) !important;
+}
+
+/* Channel Sync Buttons */
+button[class*="lookGhost-"].colorBrand-3pXr91 {
+    color: var(--unblurple) !important;
+    background-color: rgba(var(--unblurple), 0.1) !important;
+}
+
+/* Wide Buttons */
+div[class*="radioGroup-"] div[style*="background-color: rgb(114, 137, 218)"] {
+    background-color: var(--unblurple) !important;
+    border-color: var(--unblurple) !important;
+}
+div[class*="cardPrimaryEditable-"] div[style*="border-color: rgb(114, 137, 218)"] {
+    border-color: var(--unblurple) !important;
+}
+
+/* Discord Nitro Button in Settings */
+div[class*="side-"] div[style*="color: rgb(114, 137, 218)"] {
+    color: var(--unblurple) !important;
+}
+div[class*="side-"] div[style*="background-color: rgb(114, 137, 218)"] {
+    background-color: var(--unblurple) !important;
+    color: #fff !important;
+}
+div[class*="side-"] div[style*="background-color: rgba(114, 137, 218, 0.1)"] {
+    background-color: rgba(var(--unblurple), 0.1) !important;
+}
+
+/* Checkbox Button (1 of 1000) */
+label[class*="checkboxWrapper-"] div[style*="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218);"] {
+    border-color: var(--unblurple) !important;
+    background-color: var(--unblurple) !important;
+}
+.selectedIcon-3uS11H {
+    color: var(--unblurple) !important;
+}
+
+/* Upload Image Button */
+svg circle[fill*="#7289DA"] {
+    fill: var(--unblurple) !important;
+}
+
+/* Another Darned Checkbox */
+.checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span {
+    background-color: var(--unblurple) !important;
+    border-color: var(--unblurple) !important;
+}

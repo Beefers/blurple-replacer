@@ -1,0 +1,17 @@
+/* Server Boost Icon */
+div[class*="subscribeTooltipWrapper-"] {
+    background-color: var(--unblurple);
+}
+
+div[class*="subscribeTooltipWrapper-"]::after {
+    border-bottom-color: var(--unblurple);
+}
+
+/* Server Partner Badges */
+svg[aria-label="Discord Partner"] {
+    color: var(--unblurple) !important;
+}
+
+.lookInverted-2D7oAl.colorBrand-3pXr91 {
+    color: var(--unblurple);
+}

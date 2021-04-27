@@ -1,0 +1,12 @@
+/* Guild Avatar Without Icon */
+div[class*="guildAvatarWithoutIcon-"] {
+    background-color: var(--unblurple);
+}
+
+/* Folder Icons */
+div[class*="expandedFolderIconWrapper-"] svg[style*="color: rgb(114, 137, 218);"] {
+    color: var(--unblurple) !important;
+}
+div[class*="folder-"] div[style*="background-color: rgba(114, 137, 218, 0.4)"] {
+    background-color: rgba(var(--unblurple), 40%) !important;
+}

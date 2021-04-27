@@ -1,0 +1,53 @@
+/* Menus */
+div[class*="colorDefault-"]:active:not(.hideInteraction-1iHO1O),
+div[class*="colorDefault-"].focused-3afm-j,
+div[class*="colorDefault-"].focused-3afm-j:active {
+    background-color: var(--unblurple) !important;
+    color: #fff !important;
+}
+
+/* the nitro tier thing */
+div[class*="tierUnlocked-"] {
+    color: var(--unblurple) !important;
+}
+
+/* Audit Log Search */
+div[class*="scroller-"] div[style*="background: rgb(114, 137, 218);"] {
+    background: var(--unblurple) !important;
+}
+
+/* Permissions Sync Text */
+.message-15tBk4 strong {
+    color: var(--unblurple) !important;
+    background-color: rgba(var(--unblurple), 0.1)e;
+}
+
+/* Sync Server Template */
+.tooltipBrand-g03Nz8,
+.theme-light .tooltipBrand-g03Nz8 {
+    background-color: var(--unblurple) !important;
+}
+.tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK,
+.theme-light .tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK {
+    border-top-color: var(--unblurple) !important;
+}
+
+/* Discovery */
+.categoryPill-34fszg.selected-1dONk0 {
+    background-color: var(--unblurple) !important;
+}
+.searchPage-3GKAdT .search-1iTphC .searchBox-2_mAlO:focus-within {
+    border-color: var(--unblurple) !important;
+}
+
+/* View as Roles */
+div[class^="noticeText-"] {
+    color: #fff !important;
+}
+.colorBrand-2zeG8h {
+    background-color: var(--unblurple) !important;
+    color: #fff !important;
+}
+.button-3Ijpww:hover {
+    background-color: var(--unblurple) !important;
+}
