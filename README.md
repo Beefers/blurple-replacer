@@ -4,7 +4,7 @@ A small piece of SCSS which aims to replace all instances of Discord's default a
 ## How to use
 ### Add this to your CSS or SCSS file, preferably at or near the top:
 ```
-https://rem-cord.github.io/unblurple/main.scss
+@import url(https://rem-cord.github.io/unblurple/main.scss);
 ```
 
 
