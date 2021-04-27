@@ -8,7 +8,7 @@ https://rem-cord.github.io/unblurple/main.scss
 ```
 
 
-### Add this into your project's root
+### Add this into your project's root:
 ```
 --unblurple: #7289da; 
 ```
